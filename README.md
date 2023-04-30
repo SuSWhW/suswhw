@@ -6,3 +6,6 @@
 ![](https://github-readme-stats-suswhw.vercel.app/api?username=SuSWhW&show_icons=true)
 
 ![](/github-metrics.svg)
+![](/metrics.plugin.lines.svg)
+![](/metrics.plugin.activity.svg)
+![](/metrics.plugin.followup.indepth.svg)

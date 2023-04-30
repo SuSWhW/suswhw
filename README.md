@@ -4,5 +4,3 @@
 ![](https://stats.justsong.cn/api/bilibili/?id=487189150)
 
 ![](https://github-readme-stats-suswhw.vercel.app/api?username=SuSWhW&show_icons=true)
-
-![](https://suswhw.github.io/about/index.html)

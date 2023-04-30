@@ -6,5 +6,3 @@
 
 ![](https://github-readme-stats-suswhw.vercel.app/api?username=SuSWhW&show_icons=true)
 ![](https://github-readme-stats-suswhw.vercel.app/api/top-langs/?username=SuSWhW&layout=compact)
-
-![](https://stats.justsong.cn/api/bilibili/?id=487189150)

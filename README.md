@@ -5,4 +5,4 @@
 
 ![](https://github-readme-stats-suswhw.vercel.app/api?username=SuSWhW&show_icons=true)
 
-<iframe src="https://suswhw.github.io/about/index.html" height="100%" width="100%" scrolling="no" frameborder="0"></iframe>
+![](https://suswhw.github.io/about/index.html)

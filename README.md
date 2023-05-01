@@ -4,5 +4,5 @@
 ![](https://moe-counter.suswhw.top/get/@suswhw?theme=rule34)
 个访客！
 
-![](https://github-readme-stats-suswhw.vercel.app/api?username=SuSWhW&show_icons=true)
-![](https://github-readme-stats-suswhw.vercel.app/api/top-langs/?username=SuSWhW&layout=compact)
+![](https://github-readme-stats.suswhw.top/api?username=SuSWhW&show_icons=true)
+![](https://github-readme-stats.suswhw.top/api/top-langs/?username=SuSWhW&layout=compact)

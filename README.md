@@ -6,3 +6,5 @@
 
 ![](https://github-readme-stats.suswhw.top/api?username=SuSWhW&show_icons=true)
 ![](https://github-readme-stats.suswhw.top/api/top-langs/?username=SuSWhW&layout=compact)
+
+![](/github-metrics.svg)

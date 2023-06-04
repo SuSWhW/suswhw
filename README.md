@@ -1,8 +1,8 @@
-## 你好啊！欢迎来到我的Github主页😊
+## Hi！Hi I'm SuSWhW.Welcome to my profile.😊
 
-你是我的第
+You are my
 ![](https://moe-counter.suswhw.top/get/@suswhw?theme=rule34)
-个访客！
+st visitor!
 
 ![](https://github-readme-stats.suswhw.top/api?username=SuSWhW&show_icons=true)
 ![](https://github-readme-stats.suswhw.top/api/top-langs/?username=SuSWhW&layout=compact)
